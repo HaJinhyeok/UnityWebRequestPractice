@@ -12,7 +12,7 @@ public class NetworkTest : MonoBehaviour
     IEnumerator UnityWebRequestGet()
     {
         // 통신에 필요한 주소.
-        string url = "https://developer-lostark.game.onstove.com/characters/LostGrade/siblings";
+        string url = "";
         // url이라는 주소로 요청을 보냄
         UnityWebRequest www = UnityWebRequest.Get(url);
 
