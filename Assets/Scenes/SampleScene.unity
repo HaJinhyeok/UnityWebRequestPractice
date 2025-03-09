@@ -491,7 +491,7 @@ MonoBehaviour:
   port: 3030
   top3Uri: scores/top3
   idUri: scores/Jinhyeok
-  postUri: scores
+  postUri: register
   scriptableObject: {fileID: 11400000, guid: df224db59d6dacb478aa1e5b04507a10, type: 2}
   btnGetTop3: {fileID: 1038378500}
   btnGetId: {fileID: 1803579358}

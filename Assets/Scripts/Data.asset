@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8cda319bfd595dd40a3c17dd62878ce2, type: 3}
   m_Name: Data
   m_EditorClassIdentifier: 
-  id: Jinhyeok
-  score: 1237
+  id: test2
+  score: 1236
